@@ -1,0 +1,26 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Thomas Nieto",
+    "classifications": ["AnyPackage", "Provider"],
+    "identity": "AnyPackage.Provider",
+    "name": "AnyPackage Provider",
+    "shortName": "anypackage",
+    "sourceName": "ProviderName",
+    "preferNameDirectory": true,
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "guids": [
+        "0582c4ed-4776-4bd2-9ce2-67ea83718597"
+    ],
+    "symbols": {
+        "ModuleName": {
+            "type": "parameter",
+            "description": "The PowerShell module name.",
+            "datatype": "text",
+            "replaces": "ModuleName",
+            "isRequired": true
+        }
+    }
+}
