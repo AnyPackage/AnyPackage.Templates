@@ -6,7 +6,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://anypackage.dev</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/AnyPackage/AnyPackage.Templates.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/anypackage/templates.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Authors>Thomas Nieto</Authors>
     <Description>AnyPackage project templates.</Description>
